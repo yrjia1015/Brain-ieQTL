@@ -1,0 +1,22 @@
+# Genomics
+*.bed
+*.bim
+*.fam
+*.rds
+*.gz
+*.bgz
+*.log
+*.tmp
+*.out
+
+# HPC
+*.err
+*.o*
+*.e*
+
+# R
+.Rhistory
+.RData
+
+# OS
+.DS_Store
