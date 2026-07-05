@@ -19,7 +19,7 @@ Brain-ieQTL/
 `-- README.md
 ```
 
-## 1. Expression Matrix and eQTL Preprocessing
+## 1. Expression Matrix and Preprocessing
 
 Run from your analysis working directory:
 
