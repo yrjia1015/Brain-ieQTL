@@ -1,14 +1,11 @@
 # Brain lncRNA-ieQTL Analysis Code
 
-This folder contains the code used for expression preprocessing, eQTL mapping, cell-type interaction eQTL, COLOC, SMR, enrichment, and mashr analyses.
+This folder contains the code used for expression preprocessing, cell-type interaction eQTL mapping, COLOC, SMR, enrichment, and mashr analyses.
 
 ## Data Access
 
-ieQTL summary data and transcript prediction models can be downloaded from the Brain-ieQTL Atlas:
-
-```text
-https://brain.hitxqtl.org.cn/Brain-ieQTLAtlas/#/
-```
+ieQTL summary statistics and the transcriptome model are available from the
+[Brain-ieQTL Atlas](https://brain.hitxqtl.org.cn/Brain-ieQTLAtlas/#/).
 
 ## Folder Structure
 
