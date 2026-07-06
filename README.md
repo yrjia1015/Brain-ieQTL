@@ -1,6 +1,6 @@
 # Brain-ieQTL Analysis Code
 
-This folder contains the code used for expression preprocessing, cell-type interaction eQTL mapping, COLOC, SMR, enrichment, and mashr analyses.
+This repository contains the code used for expression preprocessing, cell-type interaction eQTL mapping, COLOC, SMR, enrichment, and mashr analyses.
 
 ## Data Access
 
