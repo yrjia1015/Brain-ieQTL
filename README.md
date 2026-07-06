@@ -4,7 +4,7 @@ This repository contains the code used for expression preprocessing, cell-type i
 
 ## Data Access
 
-ieQTL summary statistics and the transcriptome model are available from the
+Summary statistics and the transcriptome model are available from the
 [Brain-ieQTL Atlas](https://brain.hitxqtl.org.cn/Brain-ieQTLAtlas/#/).
 
 ## Folder Structure
